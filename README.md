@@ -1,1 +1,1 @@
-# Frontend-Mentor---Order-summery-component
+# Frontend-Mentor-Order-summery-component
